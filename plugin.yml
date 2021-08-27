@@ -1,0 +1,384 @@
+name: StyleSkills
+main: me.liu.Main
+version: 5.1.1
+description: StyleSkills
+author: LiuPvP
+commands:
+  spawn:
+  fps:
+  earlyhg:
+  main:
+  challenge:
+  rdm:
+  mdr:
+  sair:
+  head:
+  lagcheck:
+  eventordm:
+  dwarf:
+  magico:
+  sniper:
+  jumper:
+  report:
+     description: Para reportar jogadores.
+     usage: /report [jogador] [motivo]
+  list:
+     description: Listar os players!
+  inv:
+     description: Inv!
+  invis:
+     description: Invisibilidade!
+  tell:
+     description: Mandar Mensagem!
+  s:
+     description: Mandar Staff!
+  f:
+     description: Mandar Staff!
+  r:
+     description: Responder a mensagem!
+  kitreset:
+     description: Resetar Kit!
+  kitvip1:
+     description: Resetar Kit!
+  kitvip2:
+     description: Resetar Kit!
+  chat:
+     description: Chat!
+  setspawn:
+     description: SetSpawn!
+     aliases: [ss]
+  admin:
+     description: Modo Admin!
+     aliases: [adm]
+  lag:
+     description: Lag!
+     aliases: [lg]
+  shop:
+     description: Shop!
+     aliases: [shop]
+  report:
+     description: Report Player!
+     aliases: [reportar]
+  motivos:
+     description: Motivos!
+     aliases: [mot]
+  tank:
+     description: Kit Tank!  
+  skeleton:
+     description: Kit Skeleton!
+  zeus:
+     description: Kit Zeus!
+  salamander:
+     description: Kit Salamander!
+  cookiemonster:
+     description: Kit CookieMonster!
+  macaco:
+     description: Kit Macaco!
+  aids:
+     description: Kit Aids!
+  flash:
+     description: Kit Flash!
+  endermage:
+     description: Kit Endermage!
+  urgal:
+     description: Kit Urgal!
+  bal:
+     description: Dinheiro!
+     aliases: [ouros]
+  kickall:
+     description: Expulse todos!
+     aliases: [kall]
+  opi:
+     description: Olhe Inventarios!
+     aliases: [oinv]
+  up:
+     description: Suba!
+     aliases: [subir]
+  upi:
+     description: Upi!
+     aliases: [upi]
+  build:
+     description: Contruir on - off!
+     aliases: [construir]
+  topo:
+     description: Va ao topo!
+     aliases: [top]
+  speed:
+     description: Velocidade!
+     aliases: [velocidade]
+  suicide:
+     description: Suicide!
+     aliases: [scd]
+  gerenciar:
+     description: Suicide!
+     aliases: [gr]
+  manage:
+     description: Manage!
+     aliases: [mg]
+  sreload:
+     description: Suicide!
+     aliases: [srl]
+  sreload:
+     description: Suicide!
+     aliases: [srl]
+  reload:
+     description: Reload!
+     aliases: [rl]
+  cabeca:
+     description: Cabecas!
+     aliases: [cbc]
+  matar:
+     description: Mate Um Player!
+     aliases: [mt]
+  staffchat:
+     description: Chat da Staff!
+     aliases: [sc]   
+  chatclear:
+     description: Limpe o chat!
+     aliases: [cl]
+  abrirchat:
+     description: Bugs nao use!
+     aliases: [achat]
+  fecharchat:
+     description: Bugs nao use!
+     aliases: [fchat]
+  limparinv:
+     description: Limpe o Inventario!
+     aliases: [linv]
+  kick:
+     description: Expulse um player!
+     aliases: [kick]
+  msg:
+     description: Mensagem para um player!
+     aliases: [tell]
+  say:
+     description: Fale com o console!
+     aliases: [console]
+  raio:
+     description: Solte um raio!
+     aliases: [raio]
+  nick:
+     description: Mude seu nick!
+     aliases: [nk]
+  ping:
+     description: Pong!
+     aliases: [pg]
+  tp:
+     description: Teleporte!
+     aliases: [tp]
+  vida:
+     description: Recupere sua vida!
+     aliases: [vd]
+  fome:
+     description: Recupere sua fome!
+     aliases: [fm]
+  gm:
+     description: Gamemode!
+     aliases: [gm]
+  voar:
+     description: Voe!
+     aliases: [vo]
+  anuncio:
+     description: Anuncio!
+     aliases: [an]
+  limpar:
+     description: LimparChat!
+  fake:
+     description: Fake entrar,sair!
+  importante:
+     description: Anuncios Importantes!
+  tempo:
+     description: Mude o tempo!
+     aliases: [dia, noite]
+  tag:
+     description: Mude sua Tag!
+  qwertyuiop:
+  asdfghjkl:
+  1856932:
+  adsafasfol:
+  kitvip:
+     description: Veja os Kits!
+     aliases: [kit, kits]
+  kit:
+     description: Veja os Kits!
+  kits:
+     description: Veja os Kits!
+  kit2:
+     description: Veja os Kits!
+  kits2:
+     description: Veja os Kits!
+  kitshg:
+     description: Veja os Kits!
+  kithg:
+     description: Veja os Kits!
+  ip:
+  pote:
+  lms:
+  brackets:
+  sair:
+  removekit:
+     description: Remover Kit!
+     
+  warps:
+     description: Warps!
+
+  getkit:
+     description: getKit!
+    
+  buildon:
+     description: BuildOn!
+ 
+  buildoff:
+     description: BuildOff!
+     
+  joanazaky2233:
+     description: Kit joanazaky2233!
+ 
+  endermage:
+     description: Endermage!
+     
+  chemist:
+     description: Chemist!
+     
+  launcher:
+     description: Launcher!
+     
+  robinhood:
+     description: RobinHood!
+     
+  bomber:
+     description: Bomber!
+     
+  vacuum:
+     description: Vacuum!
+     
+  backpacker:
+     description: BackPacker!
+ 
+  thor:
+     description: Kit Thor!
+
+  darkmage:
+     description: Kit DarkMage!
+
+  gladiator:
+     description: Kit Gladiator!
+
+  grappler:
+     description: Kit Grappler!
+     
+  checkpoint:
+     description: Kit CheckPoint!
+     
+  healer:
+     description: Kit Healer!
+     
+  reaper:
+     description: Kit Reaper!
+     
+  sonic:
+     description: Kit Sonic!
+
+  snowman:
+     description: Kit Snowman!
+
+  pyro:
+     description: Kit Pyro!
+     
+  lavaman:
+     description: Kit Lavaman!
+     
+  phantom:
+     description: Kit Phantom!
+     
+  archer:
+     description: Kit Archer!
+     
+  switcher:
+     description: Kit Switcher!
+     
+  fisherman:
+     description: Kit Fisherman!
+     
+  anchor:
+     description: Kit Anchor!
+     
+  stomper:
+     description: Kit Stomper!
+     
+  camel:
+     description: Kit Camel!
+     
+  tank:
+     description: Kit Tank!
+     
+  viper:
+     description: Kit Viper!
+     
+  snail:
+     description: Kit Snail!
+     
+  berserker:
+     description: Kit Berserker!
+     
+  cookiemonster:
+     description: Kit CookieMonster!
+     
+  timelord:
+     description: Kit Timelord!
+     
+  viking:
+     description: Kit Viking!
+     
+  turtle:
+     description: Kit Turtle!
+     
+  frosty:
+     description: Kit Frosty!
+     
+  cultivator:
+     description: Kit Cultivator!
+     
+  vampire:
+     description: Kit Vampire!
+     
+  milkman:
+     description: Kit Milkman!
+     
+  neo:
+     description: Kit Neo!
+     
+  gambler:
+     description: Kit Gambler!
+     
+  rider:
+     description: Kit Rider!
+     
+  pvp:
+     description: Kit PvP!
+     
+  hulk:
+     description: Kit Hulk!
+     
+  kangaroo:
+     description: Kit Kangaroo!
+     
+  specialist:
+     description: Kit Specialist!
+     
+  spectre:
+     description: Kit Spectre!
+     
+  poseidon:
+     description: Kit Poseidon!
+     
+  monk:
+     description: Kit Monk!
+     
+  lifeline:
+     description: Kit Lifeline!
+     
+  soup:
+     description: Pegue um refill bem maroto!
+  drop:
+     description: Drope o item que seguras!

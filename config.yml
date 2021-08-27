@@ -1,0 +1,31 @@
+#################################################################
+#                                                               #
+#                       Style - SKILLS                          #
+#                      Exclusive Version                        #
+#                                                               #
+#################################################################
+ColoredSigns:
+  char: '&'
+###################################################  
+
+timehour: 0
+timemin: 1
+timesec: 20
+
+###################################################
+
+sendmessagetoserver: false
+useprefixinchat: false
+prefix: ''
+moneytobetakenfromvictim: 25
+moneytobegiventokiller: 100
+
+#################################################
+
+Stats-Tag: '&b{NAME}&7'
+Balance-Tag: '&7Balance&7:'
+Kills-Tag: '&7Kills&7:'
+Deaths-Tag: '&7Deaths&7:'
+Streak-Tag: '&7Streak&7:'
+
+Stats-File-Save-Time: 20s
