@@ -6,10 +6,8 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Liu/Desktop/Coisas/BarAPI.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Liu/Downloads/Coisas/Server/plugins/Vault-1.4.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Liu/Desktop/Coisas/bukkit.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Liu/Desktop/Coisas/craftbukkit.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Liu/Downloads/Coisas/Server/plugins/Style1v1.jar"/>
+	<classpathentry kind="lib" path="/APIs/BarAPI-3.4.jar"/>
+	<classpathentry kind="lib" path="/APIs/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/APIs/Vault-1.4.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
